@@ -1,0 +1,27 @@
+
+html {
+  background-color: #93FFFD;
+}
+
+#game {
+  border: thin solid black;
+  border-radius: 10px;
+  background-color: lightblue;
+  width: 80%;
+}
+
+#game div {
+  border: 1px solid black;
+  border-radius: 100%;
+  background-color: white;
+  width: 22%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+
+}
+
+#title {
+  width: 15%;
+  scale: 0.8;
+}
